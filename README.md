@@ -11,34 +11,37 @@
 
 ## 🚀 About Me
 
-```python
-class DevOpsEngineer:
-    def __init__(self):
-        self.name = "Rachit Shrivastava"
-        self.role = "Computer Science Student | DevOps Specialist"
-        self.university = "UPES"
-        self.graduation = "May 2027"
-        self.location = "India"
-        
-    def skills(self):
-        return {
-            "frontend": ["HTML", "CSS", "JavaScript", "React"],
-            "backend": ["Node.js", "Express", "Java", "Python"],
-            "databases": ["MySQL", "MongoDB"],
-            "devops": ["AWS", "Git", "GitHub", "Linux"],
-            "tools": ["JDBC", "Swing GUI"]
-        }
-    
-    def current_focus(self):
-        return [
-            "Building scalable web applications",
-            "Cloud computing & DevOps practices",
-            "Competitive programming",
-            "Full stack development"
-        ]
-```
+<table>
+<tr>
+<td>
+  
+**👨‍💻 Name:** Rachit Shrivastava  
+**🎓 Role:** Computer Science Student | DevOps Specialist  
+**🏫 University:** UPES  
+**📅 Graduation:** May 2027  
+**📍 Location:** India
+
+</td>
+<td>
+
+**💻 Skills:**  
+🎨 **Frontend:** HTML, CSS, JavaScript, React  
+⚙️ **Backend:** Node.js, Express, Java, Python  
+🗄️ **Databases:** MySQL, MongoDB  
+☁️ **DevOps:** AWS, Git, GitHub, Linux  
+🛠️ **Tools:** JDBC, Swing GUI
+
+</td>
+</tr>
+</table>
 
 Motivated Computer Science student specializing in **DevOps** with hands-on experience in **full stack development** and **cloud technologies**. Passionate about leveraging technology for innovative solutions across diverse domains including education, agriculture, and social welfare.
+
+**🎯 Current Focus:**
+- 🚀 Building scalable web applications
+- ☁️ Cloud computing & DevOps practices
+- 🧩 Competitive programming
+- 💼 Full stack development
 
 ## 💼 Professional Experience
 
@@ -88,28 +91,24 @@ Motivated Computer Science student specializing in **DevOps** with hands-on expe
 ### 📦 Inventory Management System
 **Tech Stack:** Java | Swing GUI | JDBC | MySQL
 
-```yaml
-Description: Desktop-based inventory management system
-Features:
-  - User-friendly GUI
-  - Product management
-  - Stock tracking
-  - Database integration
-  - Real-time updates
-```
+**Description:** Desktop-based inventory management system  
+**Features:**
+- ✅ User-friendly GUI
+- ✅ Product management
+- ✅ Stock tracking
+- ✅ Database integration
+- ✅ Real-time updates
 
 ### 🎓 Teacher-Student Portal
 **Tech Stack:** React | Node.js | Express | MongoDB
 
-```yaml
-Description: Full stack portal for educational institutions
-Features:
-  - Course management
-  - Assignment tracking
-  - Communication tools
-  - Responsive design
-  - Scalable architecture
-```
+**Description:** Full stack portal for educational institutions  
+**Features:**
+- ✅ Course management
+- ✅ Assignment tracking
+- ✅ Communication tools
+- ✅ Responsive design
+- ✅ Scalable architecture
 
 ## 📊 GitHub Stats
 
@@ -141,14 +140,10 @@ University of Petroleum and Energy Studies (UPES) | Expected Grad: May 2027
 
 ## 🎯 What I'm Up To
 
-```javascript
-const currentFocus = {
-    learning: ["Advanced DevOps Practices", "Cloud Architecture", "System Design"],
-    building: ["Scalable Web Applications", "Cloud-Native Solutions"],
-    exploring: ["Kubernetes", "Docker", "CI/CD Pipelines"],
-    improving: ["Data Structures & Algorithms", "Competitive Programming"]
-};
-```
+**📚 Learning:** Advanced DevOps Practices • Cloud Architecture • System Design  
+**🔨 Building:** Scalable Web Applications • Cloud-Native Solutions  
+**🔍 Exploring:** Kubernetes • Docker • CI/CD Pipelines  
+**📈 Improving:** Data Structures & Algorithms • Competitive Programming
 
 ## 💡 Interests
 
