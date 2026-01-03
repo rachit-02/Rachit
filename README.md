@@ -100,23 +100,7 @@ Motivated Computer Science student specializing in **DevOps** with hands-on expe
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
-</div>
 
-## 🎓 Education & Certifications
-
-**B.Tech in Computer Science Engineering (DevOps)**  
-University of Petroleum and Energy Studies (UPES) | Expected Grad: May 2027
-
-**Certifications:**
-- 🏅 AWS Academy Graduate - Cloud Foundations
-- 🏅 Full Stack Web Development - Wayspire
-
-**Relevant Coursework:**
-- Data Structures and Algorithms
-- Databases
-- Artificial Intelligence
-- Computer Networks
-- Operating Systems
 
 ## 🎯 What I'm Up To
 
