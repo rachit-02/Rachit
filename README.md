@@ -42,25 +42,6 @@ Motivated Computer Science student specializing in **DevOps** with hands-on expe
 - 🧩 Competitive programming
 - 💼 Full stack development
 
-## 💼 Professional Experience
-
-### 🔧 Software Engineer Intern
-**Innodeed Systems Pvt. Ltd** | *July – August 2025*
-- Developed a full stack portal for teachers and students using **React**, **Node.js**, **Express**, and **MongoDB**
-- Applied modern web technologies ensuring responsiveness, scalability, and user-friendliness
-- Collaborated with cross-functional teams to meet project deadlines
-
-### 🌾 Research Intern
-**Growin Agri Company** | *June – July 2025*
-- Conducted research on agricultural innovations and sustainable practices
-- Analyzed data on agricultural drones and modern farming technologies
-- Studied the role of technology in enhancing agricultural productivity
-
-### 🤝 Intern
-**Kalyani Social Welfare** | *June – July 2024*
-- Led a team at an NGO conducting awareness campaigns against substance abuse
-- Coordinated field activities and developed leadership skills
-
 ## 🛠️ Tech Stack
 
 ### Languages
