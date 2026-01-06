@@ -110,15 +110,12 @@ Motivated Computer Science student specializing in **DevOps** with hands-on expe
 - ✅ Scalable architecture  
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RachitShrivastava&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RachitShrivastava&theme=default" />
 </p>
+
 
 ---
 
