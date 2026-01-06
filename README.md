@@ -133,10 +133,6 @@ I'm always open to collaborating on interesting projects and innovative ideas. I
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
-
 ⭐️ From [Rachit Shrivastava](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
