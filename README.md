@@ -114,13 +114,11 @@ Motivated Computer Science student specializing in **DevOps** with hands-on expe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RachitShrivastava&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RachitShrivastava&show_icons=true&theme=default&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitShrivastava&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
->
 
 ---
 
